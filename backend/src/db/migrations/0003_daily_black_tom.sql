@@ -1,0 +1,1 @@
+ALTER TABLE "enlight" ADD COLUMN "servings" text;
